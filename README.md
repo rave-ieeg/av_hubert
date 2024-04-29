@@ -47,7 +47,9 @@ immediately cease using the Software Products.
 Please find the checkpoints [here](http://facebookresearch.github.io/av_hubert)
 
 ## Demo
-Run our lip-reading demo using Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bNXkfpHiVHzXQH8WjGhzQ-fsDxolpUjD)
+Run lip-reading demo using Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bNXkfpHiVHzXQH8WjGhzQ-fsDxolpUjD)
+
+Run Audio-Visual HuBERT demo using Colab: https://colab.research.google.com/drive/1GIrNP4bf920WFlMMAKommpC9etqbdcmU?usp=drive_link
 
 ## Installation
 First, create a conda virtual environment and activate it:
