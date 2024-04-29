@@ -49,7 +49,7 @@ Please find the checkpoints [here](http://facebookresearch.github.io/av_hubert)
 ## Demo
 Run lip-reading demo using Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bNXkfpHiVHzXQH8WjGhzQ-fsDxolpUjD)
 
-Run Audio-Visual HuBERT demo using Colab: https://colab.research.google.com/drive/1GIrNP4bf920WFlMMAKommpC9etqbdcmU?usp=drive_link
+Run Audio-Visual HuBERT demo using Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GIrNP4bf920WFlMMAKommpC9etqbdcmU?usp)
 
 ## Installation
 First, create a conda virtual environment and activate it:
